@@ -17,7 +17,7 @@ ___
 <p float="center" margin-left="2px">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="css">
-<img src="https://static-00.iconduck.com/assets.00/javascript-icon-512x512-2v7hbq6h.png" width = '60' alt="JavaScript">
+<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width = '60' alt="JavaScript">
 </p>
 
 ___
