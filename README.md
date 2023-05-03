@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/souravkumar20/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+(https://camo.githubusercontent.com/612eda8c56cb3f43da2a27f8708d83ec97ae172bfb138c715aca32a693d8f71f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f313035312f313035313237372e706e67)
