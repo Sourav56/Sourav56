@@ -1,19 +1,10 @@
-<!--
-**Sourav56/Sourav56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![MasterHead](https://github.com/Sourav56/Sourav56/blob/main/header.png)](https://github.com/Sourav56)
+___
+I’m interested in learning web development, contributing to open source (started recently) and working out.
+
+I mainly use Javascript 🐱‍💻.
+
+___
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourav56)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +12,16 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/souravkumar20/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
 
-(https://camo.githubusercontent.com/612eda8c56cb3f43da2a27f8708d83ec97ae172bfb138c715aca32a693d8f71f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f313035312f313035313237372e706e67)
+___
+### Programming language
+<p float="center" margin-left="2px">
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' alt="html">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="css">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width = '60' alt="TypeScript">
+</p>
+
+___
+#### Nautral Languanges 🐱‍👓
+Native: **Hindi and English**
+
+Learning: **Korean**
