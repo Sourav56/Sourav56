@@ -15,9 +15,9 @@ ___
 ___
 ### Programming language
 <p float="center" margin-left="2px">
-<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' height = '40' alt="html">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' alt="css">
-<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width = '60' height='40' alt="JavaScript">
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width = '60' height = '70' alt="html">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width = '60' height = '70' alt="css">
+<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width = '60' height='70' alt="JavaScript">
 </p>
 
 ___
